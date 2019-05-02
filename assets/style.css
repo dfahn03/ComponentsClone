@@ -6,13 +6,9 @@
   margin-top: 2rem;
 }
 .media {
-  display: flex;
   color: white;
 }
-.media>h5 {
-  border-bottom: 1px solid white;
-}
-h5 {
+h4 {
   border-bottom: 1px solid;
 }
 .btn {
@@ -35,6 +31,9 @@ h5 {
   background-color: teal;
   color: white;
 }
-.space-1 {
-  
+#subscribe {
+  background-color: teal;
+}
+#img-2 {
+  margin-top: 1rem;
 }
