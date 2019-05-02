@@ -19,18 +19,22 @@ h5 {
   color: teal;
 }
 #info {
-  padding: 10px 150px;
+  padding: 30px 150px;
+}
+#info-2 {
+  border: 1px solid rgba(128, 128, 128, 0.5);
+  margin: auto 10px;
 }
 .img-thumbnail {
   display: flex;
-  min-height: 175px;
+  min-height: 165px;
   min-width: 200px;
+  margin-top: .5rem;
 }
 #button-2 {
   background-color: teal;
   color: white;
 }
 .space-1 {
-  justify-content: center
   
 }
