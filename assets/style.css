@@ -1,0 +1,36 @@
+#head {
+  background-color: teal;
+  padding: 10px 80px;
+}
+#img-1 {
+  margin-top: 2rem;
+}
+.media {
+  display: flex;
+  color: white;
+}
+.media>h5 {
+  border-bottom: 1px solid white;
+}
+h5 {
+  border-bottom: 1px solid;
+}
+.btn {
+  color: teal;
+}
+#info {
+  padding: 10px 150px;
+}
+.img-thumbnail {
+  display: flex;
+  min-height: 175px;
+  min-width: 200px;
+}
+#button-2 {
+  background-color: teal;
+  color: white;
+}
+.space-1 {
+  justify-content: center
+  
+}
